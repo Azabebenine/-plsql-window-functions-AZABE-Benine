@@ -56,3 +56,10 @@ To smooth out monthly fluctuations and get a better view of sales trends, we’l
 Here we have cmd command that used to create the table
 <img width="1920" height="1080" alt="Screenshot 2025-09-29 034005" src="https://github.com/user-attachments/assets/c463c447-5c7d-49a1-82b3-b20c8ab68912" />
 
+after to create the user we create the table into the user by using this command
+<img width="1920" height="1080" alt="Screenshot 2025-09-29 034853" src="https://github.com/user-attachments/assets/1d961a65-12e8-4fea-bfb7-c52e431e03ed" />
+after to create the tables we insert some data into the table 
+<img width="1920" height="1080" alt="Screenshot 2025-09-29 040607" src="https://github.com/user-attachments/assets/0302c8bf-6f41-4001-b160-8932a3315381" />
+<img width="1920" height="1080" alt="Screenshot 2025-09-29 045032" src="https://github.com/user-attachments/assets/ea088ad9-d40f-4e0e-b7b0-b0ce31141efa" />
+
+
