@@ -101,7 +101,9 @@ FROM Transactions;
 
 <img width="1920" height="1080" alt="Screenshot 2025-09-29 062300" src="https://github.com/user-attachments/assets/355d9204-4f03-45c4-a66a-041d974d8020" />
 
-
+SELECT t.*,
+       RANK() OVER (ORDER BY t.AMOUNT DESC) AS rank
+FROM Transactions t;
 
 
 <img width="1920" height="1080" alt="Screenshot 2025-09-29 055834" src="https://github.com/user-attachments/assets/332eb110-4556-4fee-99b8-06d3880260c2" />
