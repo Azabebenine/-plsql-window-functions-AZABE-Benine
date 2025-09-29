@@ -85,6 +85,7 @@ NAVIGATION
 
 <img width="1920" height="1080" alt="Screenshot 2025-09-29 062918" src="https://github.com/user-attachments/assets/dc80fc1c-e356-4bf0-8f83-14df7a724138" />
 <img width="1920" height="1080" alt="Screenshot 2025-09-29 063041" src="https://github.com/user-attachments/assets/4f27c6d0-70a8-4ec7-bd4c-2fb759a5cff1" />
+
 ## STEP6
 
 1.Descriptive – What happened?
@@ -164,7 +165,8 @@ REFERENCES:
 
 10.Neon Tech. PostgreSQL NTILE Function with Examples. Available at: https://neon.com/postgresql/postgresql-window-function/postgresql-ntile-function
 
- 
+ “All sources were properly cited. Implementations and analysis represent original work. No AI-
+generated content was copied without attribution or adaptation".
 
 
 
