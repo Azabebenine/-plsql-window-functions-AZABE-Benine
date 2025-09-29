@@ -106,6 +106,12 @@ FROM Transactions;
 
 <img width="1920" height="1080" alt="Screenshot 2025-09-29 055834" src="https://github.com/user-attachments/assets/332eb110-4556-4fee-99b8-06d3880260c2" />
 AGGREGATE
+
+SELECT t.*,
+       RANK() OVER (ORDER BY t.AMOUNT DESC) AS rank
+FROM Transactions t;
+
+
 <img width="1920" height="1080" alt="Screenshot 2025-09-29 060214" src="https://github.com/user-attachments/assets/8552cf5b-6c33-452c-a20e-b16d92109fb5" />
 <img width="1920" height="1080" alt="Screenshot 2025-09-29 060534" src="https://github.com/user-attachments/assets/6e6d4152-fee0-44b0-bb09-46092afb76a1" />
 SUM
