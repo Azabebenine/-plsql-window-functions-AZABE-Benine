@@ -52,4 +52,7 @@ To smooth out monthly fluctuations and get a better view of sales trends, we’l
 | **transactions** | Records all LENOVO sales               | `transaction_id (PK)`, `customer_id (FK)`, `product_id (FK)`, `sale_date`, `amount` | `5001, 1002, 3001, 2024-03-10, 850000` |
 ## ER Diagram
 <img width="1221" height="688" alt="image" src="https://github.com/user-attachments/assets/dd0656de-8fb1-442c-abf7-55be27a6ca05" />
+## STEP4
+Here we have cmd command that used to create the table
+<img width="1920" height="1080" alt="Screenshot 2025-09-29 034005" src="https://github.com/user-attachments/assets/c463c447-5c7d-49a1-82b3-b20c8ab68912" />
 
