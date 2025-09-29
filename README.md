@@ -67,6 +67,23 @@ This is table with Data
 <img width="1920" height="1080" alt="Screenshot 2025-09-29 065209" src="https://github.com/user-attachments/assets/853e4848-a1fc-4692-ba7e-6b763fafa349" />
 <img width="1920" height="1080" alt="Screenshot 2025-09-29 065230" src="https://github.com/user-attachments/assets/da29aa09-e5bf-4448-aefa-c8d66d435be9" />
 <img width="1920" height="1080" alt="Screenshot 2025-09-29 065246" src="https://github.com/user-attachments/assets/b417e361-8e83-4137-ab1e-6e02accc3004" />
+finally we start using Query to select and using sum, average etc...
+<img width="1920" height="1080" alt="Screenshot 2025-09-29 055834" src="https://github.com/user-attachments/assets/332eb110-4556-4fee-99b8-06d3880260c2" />
+AGGREGATE
+<img width="1920" height="1080" alt="Screenshot 2025-09-29 060214" src="https://github.com/user-attachments/assets/8552cf5b-6c33-452c-a20e-b16d92109fb5" />
+<img width="1920" height="1080" alt="Screenshot 2025-09-29 060534" src="https://github.com/user-attachments/assets/6e6d4152-fee0-44b0-bb09-46092afb76a1" />
+SUM
+<img width="1920" height="1080" alt="Screenshot 2025-09-29 062300" src="https://github.com/user-attachments/assets/1add2634-25fd-48a6-a66b-8449b5ec5f7d" />
+<img width="1920" height="1080" alt="Screenshot 2025-09-29 062918" src="https://github.com/user-attachments/assets/2f04562c-f649-4909-9f90-9359a90ffcfe" />
+NAVIGATION
+<img width="1920" height="1080" alt="Screenshot 2025-09-29 062918" src="https://github.com/user-attachments/assets/dc80fc1c-e356-4bf0-8f83-14df7a724138" />
+<img width="1920" height="1080" alt="Screenshot 2025-09-29 063041" src="https://github.com/user-attachments/assets/4f27c6d0-70a8-4ec7-bd4c-2fb759a5cff1" />
+
+
+
+
+
+
 
 
 
