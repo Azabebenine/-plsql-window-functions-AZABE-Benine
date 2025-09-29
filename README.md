@@ -43,3 +43,10 @@ By applying NTILE over the total amount each customer has spent, we can divide o
 
 To smooth out monthly fluctuations and get a better view of sales trends, we’ll use the AVG OVER(ROWS BETWEEN 2 PRECEDING AND CURRENT ROW) function. This shows a moving average of sales over the last 3 months, which is helpful for identifying long-term patterns.
 
+## step3
+
+| **Table**        | **Purpose**                            | **Key Columns**                                                                     | **Example Row**                        |
+| ---------------- | -------------------------------------- | ----------------------------------------------------------------------------------- | -------------------------------------- |
+| **customers**    | Stores customer info for LENOVO buyers | `customer_id (PK)`, `name`, `region`                                                | `1002, Alice Mugisha, Nairobi`         |
+| **products**     | Stores laptop and accessory catalog    | `product_id (PK)`, `name`, `category`                                               | `3001, Lenovo ThinkPad E15, Laptop`    |
+| **transactions** | Records all LENOVO sales               | `transaction_id (PK)`, `customer_id (FK)`, `product_id (FK)`, `sale_date`, `amount` | `5001, 1002, 3001, 2024-03-10, 850000` |
