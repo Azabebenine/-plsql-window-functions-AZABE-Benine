@@ -73,15 +73,6 @@ This is table with Data
 
 finally we start using Query to select and using sum, average etc...
 
-SELECT 
-    SALE_DATE,
-    AMOUNT,
-    SUM(AMOUNT) OVER (
-        ORDER BY SALE_DATE
-        ROWS BETWEEN UNBOUNDED PRECEDING AND CURRENT ROW
-    ) AS running_total_rows
-FROM Transactions;
-
 <img width="1920" height="1080" alt="Screenshot 2025-09-29 055834" src="https://github.com/user-attachments/assets/332eb110-4556-4fee-99b8-06d3880260c2" />
 AGGREGATE
 <img width="1920" height="1080" alt="Screenshot 2025-09-29 060214" src="https://github.com/user-attachments/assets/8552cf5b-6c33-452c-a20e-b16d92109fb5" />
@@ -91,11 +82,7 @@ SUM
 <img width="1920" height="1080" alt="Screenshot 2025-09-29 062918" src="https://github.com/user-attachments/assets/2f04562c-f649-4909-9f90-9359a90ffcfe" />
 
 NAVIGATION
-SELECT
-    SALE_DATE,
-    AMOUNT,
-    LAG(AMOUNT, 1) OVER (ORDER BY SALE_DATE) AS prev_amount
-FROM Transactions;
+
 <img width="1920" height="1080" alt="Screenshot 2025-09-29 062918" src="https://github.com/user-attachments/assets/dc80fc1c-e356-4bf0-8f83-14df7a724138" />
 <img width="1920" height="1080" alt="Screenshot 2025-09-29 063041" src="https://github.com/user-attachments/assets/4f27c6d0-70a8-4ec7-bd4c-2fb759a5cff1" />
 
