@@ -61,5 +61,16 @@ after to create the user we create the table into the user by using this command
 after to create the tables we insert some data into the table 
 <img width="1920" height="1080" alt="Screenshot 2025-09-29 040607" src="https://github.com/user-attachments/assets/0302c8bf-6f41-4001-b160-8932a3315381" />
 <img width="1920" height="1080" alt="Screenshot 2025-09-29 045032" src="https://github.com/user-attachments/assets/ea088ad9-d40f-4e0e-b7b0-b0ce31141efa" />
+<img width="1920" height="1080" alt="Screenshot 2025-09-29 045103" src="https://github.com/user-attachments/assets/8981190b-e230-45f7-ad08-0958efb45deb" />
+After this we join ORACLE TO CHECK OUR TABLES AND DATA
+This is table with Data 
+<img width="1920" height="1080" alt="Screenshot 2025-09-29 065209" src="https://github.com/user-attachments/assets/853e4848-a1fc-4692-ba7e-6b763fafa349" />
+<img width="1920" height="1080" alt="Screenshot 2025-09-29 065230" src="https://github.com/user-attachments/assets/da29aa09-e5bf-4448-aefa-c8d66d435be9" />
+<img width="1920" height="1080" alt="Screenshot 2025-09-29 065246" src="https://github.com/user-attachments/assets/b417e361-8e83-4137-ab1e-6e02accc3004" />
+
+
+
+
+
 
 
