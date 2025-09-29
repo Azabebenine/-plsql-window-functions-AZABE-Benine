@@ -87,7 +87,7 @@ NAVIGATION
 <img width="1920" height="1080" alt="Screenshot 2025-09-29 063041" src="https://github.com/user-attachments/assets/4f27c6d0-70a8-4ec7-bd4c-2fb759a5cff1" />
 ## STEP6
 
-Descriptive – What happened?
+1.Descriptive – What happened?
 
 
 Top spender: Customer 1002 (alice mugisha, Nairobi) made the highest purchase (850,000).
@@ -140,6 +140,31 @@ Explore why Kigali and Uganda customers are underperforming → pricing, accessi
 
 Risk management: Diversify customer base to reduce revenue dependency on one big transaction.
 
+## STEP7
+
+REFERENCES:
+
+1.Wikipedia. Window function (SQL). Available at: https://en.wikipedia.org/wiki/Window_function_(SQL)
+
+2.https://chatgpt.com
+
+3.SQLTutorial.org. SQL NTILE Function. Available at: https://www.sqltutorial.org/sql-window-functions/sql-ntile
+
+4.SQLTutorial.org. SQL CUME_DIST Function. Available at: https://www.sqltutorial.org/sql-window-functions/sql-cume_dist
+
+5.DataLemur. SQL Time-Series Window Functions: LEAD & LAG Tutorial. Available at: https://datalemur.com/sql-tutorial/sql-time-series-window-function-lead-lag
+
+6.Medium. LEAD and LAG Functions in SQL. Available at: https://medium.com/@simon.harrison_Select_Distinct/lead-and-lag-functions-in-sql-37558caa259b
+
+7.The Data School. LAG() & LEAD() | Advanced SQL Window Functions. Available at: https://www.thedataschool.com.au/daniel-lawson/lag-lead-advanced-sql-window-functions
+
+8.Medium. Mastering SQL Analytic Functions: Rank, NTILE, and CUME_DIST. Available at: https://medium.com/@stger040/mastering-sql-analytic-functions-rank-ntile-and-cume-dist-d76bc483217b
+
+9.YugabyteDB Docs. Case Study: Compare PERCENT_RANK(), CUME_DIST(), and NTILE. Available at: https://docs.yugabyte.com/preview/api/ysql/exprs/window_functions/analyzing-a-normal-distribution
+
+10.Neon Tech. PostgreSQL NTILE Function with Examples. Available at: https://neon.com/postgresql/postgresql-window-function/postgresql-ntile-function
+
+ 
 
 
 
