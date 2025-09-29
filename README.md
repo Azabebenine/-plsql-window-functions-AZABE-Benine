@@ -74,15 +74,20 @@ This is table with Data
 finally we start using Query to select and using sum, average etc...
 
 RANK
+
 SELECT t.*,
        DENSE_RANK() OVER (ORDER BY t.AMOUNT DESC) AS dense_rank
 FROM Transactions t;
+
 <img width="1920" height="1080" alt="Screenshot 2025-09-29 104445" src="https://github.com/user-attachments/assets/62841bda-4cff-43e2-a183-fdfc9d93c789" />
+
 
 SELECT t.*,
        RANK() OVER (ORDER BY t.AMOUNT DESC) AS rank
 FROM Transactions t;
+
 <img width="1920" height="1080" alt="Screenshot 2025-09-29 104019" src="https://github.com/user-attachments/assets/c7b3bb5c-c7dd-496c-a963-204aa640b597" />
+
 
 SELECT 
     SALE_DATE,
@@ -92,6 +97,8 @@ SELECT
         ROWS BETWEEN 2 PRECEDING AND CURRENT ROW
     ) AS last_3_days_total
 FROM Transactions;
+
+
 <img width="1920" height="1080" alt="Screenshot 2025-09-29 062300" src="https://github.com/user-attachments/assets/355d9204-4f03-45c4-a66a-041d974d8020" />
 
 
