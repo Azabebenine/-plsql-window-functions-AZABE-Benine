@@ -50,3 +50,6 @@ To smooth out monthly fluctuations and get a better view of sales trends, we’l
 | **customers**    | Stores customer info for LENOVO buyers | `customer_id (PK)`, `name`, `region`                                                | `1002, Alice Mugisha, Nairobi`         |
 | **products**     | Stores laptop and accessory catalog    | `product_id (PK)`, `name`, `category`                                               | `3001, Lenovo ThinkPad E15, Laptop`    |
 | **transactions** | Records all LENOVO sales               | `transaction_id (PK)`, `customer_id (FK)`, `product_id (FK)`, `sale_date`, `amount` | `5001, 1002, 3001, 2024-03-10, 850000` |
+## ER Diagram
+<img width="1221" height="688" alt="image" src="https://github.com/user-attachments/assets/dd0656de-8fb1-442c-abf7-55be27a6ca05" />
+
