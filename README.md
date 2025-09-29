@@ -6,6 +6,8 @@
 DATABASE DEVELOPMENT PL/SQL Assignment
 ## PROBLEM DEFINITION
 STEP1: PROBLEM SOLVING 
+
+
 I chose a business that sells laptops and computer accessories called LENOVO. They operate in several East African countries like Rwanda, Kenya, and Uganda. Their sales team wants to better understand which laptops are popular in each region and how often customers are buying. This helps them make better decisions when it comes to promotions, restocking, and marketing.
 
 Company Type:
